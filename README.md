@@ -48,3 +48,6 @@ POST /api/orders/
 
 ## Muallif
 Shaxboz, Telegram: @https://t.me/bakirovich_sh
+## Live demo
+https://mini-shop-wdj3.onrender.com/api/docs/
+(bepul hosting: birinchi ochilish 30-60 soniya)
